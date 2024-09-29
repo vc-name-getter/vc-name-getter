@@ -49,4 +49,4 @@ async def on_ready():
 keep_alive()
 
 # Run the bot with your token
-bot.run(os.getenv('MTI4OTc5OTgyNTgzNTE2Nzc3NA.Gki-5R.84K0zKRhiOtSJz1Ks3eWXDh_TDZed-YxteRZb0'))
+bot.run(os.getenv('DISCORD_BOT_TOKEN'))
